@@ -1,0 +1,28 @@
+{
+  "name": "silver-gold-spitzz",
+  "description": "silver-gold-spitzz",
+  "version": "0.0.2",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "homepage": "https://github.com/imotoakira600/silver-gold-spitzz/blob/main/README.md",
+  "repository": {
+    "url": "https://github.com/imotoakira600/silver-gold-spitzz"
+  },
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "tea",
+    "silver",
+    "oss",
+    "gold",
+    "spitzz"
+  ],
+  "author": "imotoakira600",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^8.0.2",
+    "typescript": "^5.3.3"
+  }
+}
